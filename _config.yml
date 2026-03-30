@@ -1,0 +1,8 @@
+# Cloudflare Pages configuration
+# This is a static site, no build needed
+
+name: Cloudflare Pages Demo
+build:
+  command: ""
+  output: ""
+  root: ""
